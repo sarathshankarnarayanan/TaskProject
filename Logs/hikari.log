@@ -1,0 +1,881 @@
+[12-Jan-2023 19:27:27.453] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[12-Jan-2023 19:27:27.465] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[12-Jan-2023 19:27:27.468] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[12-Jan-2023 19:27:27.468] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[12-Jan-2023 19:27:27.469] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[12-Jan-2023 19:27:27.470] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................4
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................3
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[12-Jan-2023 19:27:27.471] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[12-Jan-2023 19:27:27.797] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3401a114
+[12-Jan-2023 19:27:27.798] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[12-Jan-2023 19:27:27.901] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=1, active=0, idle=1, waiting=0)
+[12-Jan-2023 19:27:27.902] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=1, active=0, idle=1, waiting=0)
+[12-Jan-2023 19:27:27.922] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57b6cb59
+[12-Jan-2023 19:27:27.940] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37993416
+[12-Jan-2023 19:27:27.940] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:27:57.904] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:27:57.904] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:27:57.904] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:28:27.919] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:28:27.919] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:28:27.919] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:28:57.930] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:28:57.930] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:28:57.930] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:29:27.937] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:29:27.937] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:29:27.937] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:29:57.942] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Before cleanup stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:29:57.942] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After cleanup  stats (total=3, active=0, idle=3, waiting=0)
+[12-Jan-2023 19:29:57.942] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:30:14.495] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[12-Jan-2023 19:30:14.508] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[12-Jan-2023 19:30:14.511] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................4
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................4
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[12-Jan-2023 19:30:14.513] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[12-Jan-2023 19:30:14.514] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[12-Jan-2023 19:30:14.514] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[12-Jan-2023 19:30:14.846] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3401a114
+[12-Jan-2023 19:30:14.847] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[12-Jan-2023 19:30:14.960] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[12-Jan-2023 19:30:14.981] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@325f388
+[12-Jan-2023 19:30:14.999] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@630a0cc7
+[12-Jan-2023 19:30:15.017] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63cb4d95
+[12-Jan-2023 19:30:15.017] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:30:44.974] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:30:44.974] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:31:14.986] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:31:14.986] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:31:44.994] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:31:44.994] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:32:14.999] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:32:14.999] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:32:45.011] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:32:45.011] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:33:15.013] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:33:15.013] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:33:45.023] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=4, active=0, idle=4, waiting=0)
+[12-Jan-2023 19:33:45.023] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:33:54.717] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[12-Jan-2023 19:33:54.731] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[12-Jan-2023 19:33:54.734] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[12-Jan-2023 19:33:54.735] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[12-Jan-2023 19:33:54.736] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[12-Jan-2023 19:33:55.062] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[12-Jan-2023 19:33:55.063] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[12-Jan-2023 19:33:55.089] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[12-Jan-2023 19:33:55.089] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[12-Jan-2023 19:33:55.090] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[12-Jan-2023 19:33:55.091] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[12-Jan-2023 19:33:55.092] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[12-Jan-2023 19:33:55.113] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d0d6318
+[12-Jan-2023 19:33:55.113] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[12-Jan-2023 19:33:55.171] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[12-Jan-2023 19:33:55.189] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@766fb5c6
+[12-Jan-2023 19:33:55.189] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:33:55.219] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[12-Jan-2023 19:33:55.236] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66e13d44
+[12-Jan-2023 19:33:55.236] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:34:25.173] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:34:25.173] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:34:25.221] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:34:25.221] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:34:55.179] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:34:55.179] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:34:55.227] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:34:55.227] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:35:25.191] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:35:25.191] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:35:25.239] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:35:25.239] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:35:55.196] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:35:55.196] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:35:55.244] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:35:55.244] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:36:25.199] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:36:25.199] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:36:25.247] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:36:25.247] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:36:55.206] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:36:55.206] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[12-Jan-2023 19:36:55.254] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[12-Jan-2023 19:36:55.254] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 09:45:10.161] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 09:45:10.197] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 09:45:10.200] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 09:45:10.201] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 09:45:10.202] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 09:45:10.550] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 09:45:10.551] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 09:45:10.657] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 09:45:10.678] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65eaa2e9
+[13-Jan-2023 09:45:10.679] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 09:45:25.068] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 09:45:25.068] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[13-Jan-2023 09:45:25.069] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 09:45:25.069] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 09:45:25.069] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 09:45:25.069] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 09:45:25.069] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 09:45:25.070] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 09:45:25.071] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[13-Jan-2023 09:45:25.090] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b5825fa
+[13-Jan-2023 09:45:25.091] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[13-Jan-2023 09:45:25.205] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 09:45:25.222] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6059ecde
+[13-Jan-2023 09:45:25.222] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:11:38.928] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:11:38.942] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:11:38.945] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:11:38.946] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:11:38.947] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 10:11:39.274] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 10:11:39.275] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 10:11:39.377] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:11:39.398] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@57b4f844
+[13-Jan-2023 10:11:39.398] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:12:06.252] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:12:06.252] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:12:06.253] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:12:06.254] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:12:06.255] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[13-Jan-2023 10:12:06.275] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@207b8649
+[13-Jan-2023 10:12:06.275] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[13-Jan-2023 10:12:06.391] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:12:06.408] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1685813b
+[13-Jan-2023 10:12:06.410] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:12:09.387] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:12:09.387] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:22:22.949] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:22:22.961] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 10:22:22.964] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:22:22.965] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:22:22.966] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:22:22.967] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 10:22:23.298] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 10:22:23.299] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 10:22:23.407] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:22:23.428] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65eaa2e9
+[13-Jan-2023 10:22:23.428] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:22:30.461] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:22:30.461] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:22:30.462] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:22:30.463] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:22:30.464] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:22:30.464] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:22:30.464] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:22:30.464] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[13-Jan-2023 10:22:30.483] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34997338
+[13-Jan-2023 10:22:30.483] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[13-Jan-2023 10:22:30.598] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:22:30.615] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6059ecde
+[13-Jan-2023 10:22:30.615] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:48:08.857] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:48:08.870] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:48:08.873] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:48:08.874] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:48:08.875] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 10:48:09.208] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3401a114
+[13-Jan-2023 10:48:09.209] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 10:48:09.318] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:48:09.339] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@325f388
+[13-Jan-2023 10:48:09.340] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:48:39.321] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:48:39.321] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:48:49.353] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 10:48:49.353] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[13-Jan-2023 10:48:49.354] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 10:48:49.354] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 10:48:49.354] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 10:48:49.354] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 10:48:49.354] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 10:48:49.355] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 10:48:49.356] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[13-Jan-2023 10:48:49.376] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6cfcd46d
+[13-Jan-2023 10:48:49.376] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[13-Jan-2023 10:48:49.478] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 10:48:49.497] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a1c7f69
+[13-Jan-2023 10:48:49.497] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:49:09.336] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:49:09.336] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:49:19.480] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:49:19.480] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:49:39.337] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:49:39.337] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:49:49.488] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:49:49.488] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:50:09.346] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:50:09.346] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:50:19.500] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:50:19.500] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:50:39.360] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:50:39.360] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:50:49.511] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:50:49.511] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:51:09.362] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:51:09.362] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:51:19.515] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:51:19.515] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:51:39.369] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:51:39.369] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:51:49.521] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:51:49.521] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:52:09.372] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:52:09.372] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:52:19.534] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:52:19.534] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:52:39.378] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:52:39.378] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:52:49.538] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:52:49.538] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:53:09.391] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:53:09.391] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:53:19.542] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:53:19.542] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:53:39.395] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:53:39.395] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:53:49.549] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:53:49.549] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:54:09.408] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:54:09.408] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:54:19.553] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:54:19.553] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 10:54:39.421] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 10:54:39.421] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 11:44:52.067] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 11:44:52.081] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 11:44:52.083] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 11:44:52.084] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 11:44:52.085] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 11:44:52.086] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 11:44:52.415] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 11:44:52.416] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 11:44:52.528] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 11:44:52.550] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66e49a9d
+[13-Jan-2023 11:44:52.550] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 11:44:59.239] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 11:44:59.240] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-2 - configuration:
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 11:44:59.241] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/subject
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-2"
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 11:44:59.242] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Starting...
+[13-Jan-2023 11:44:59.263] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65b3a85a
+[13-Jan-2023 11:44:59.263] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-2 - Start completed.
+[13-Jan-2023 11:44:59.370] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 11:44:59.387] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c0c7093
+[13-Jan-2023 11:44:59.387] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-2 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:37:18.432] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 13:37:18.445] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 13:37:18.448] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 13:37:18.449] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 13:37:18.450] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 13:37:18.451] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 13:37:18.804] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 13:37:18.805] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 13:37:18.909] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 13:37:18.932] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66e49a9d
+[13-Jan-2023 13:37:18.932] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:49:55.424] [com.zaxxer.hikari.HikariConfig] [DEBUG] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@48140564
+[13-Jan-2023 13:49:55.439] [com.zaxxer.hikari.HikariConfig] [DEBUG] - HikariPool-1 - configuration:
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - allowPoolSuspension................................false
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - autoCommit................................true
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - catalog................................none
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionInitSql................................none
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTestQuery................................none
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - connectionTimeout................................30000
+[13-Jan-2023 13:49:55.442] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSource................................none
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceClassName................................none
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceJNDI................................none
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - dataSourceProperties................................{password=<masked>}
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - driverClassName................................"com.mysql.cj.jdbc.Driver"
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - exceptionOverrideClassName................................none
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckProperties................................{}
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - healthCheckRegistry................................none
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - idleTimeout................................600000
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - initializationFailTimeout................................1
+[13-Jan-2023 13:49:55.443] [com.zaxxer.hikari.HikariConfig] [DEBUG] - isolateInternalQueries................................false
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - jdbcUrl................................jdbc:mysql://localhost:3306/student
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - keepaliveTime................................0
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - leakDetectionThreshold................................0
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maxLifetime................................1800000
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - maximumPoolSize................................2
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricRegistry................................none
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - metricsTrackerFactory................................none
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - minimumIdle................................2
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - password................................<masked>
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - poolName................................"HikariPool-1"
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - readOnly................................false
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - registerMbeans................................false
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - scheduledExecutor................................none
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - schema................................none
+[13-Jan-2023 13:49:55.444] [com.zaxxer.hikari.HikariConfig] [DEBUG] - threadFactory................................internal
+[13-Jan-2023 13:49:55.445] [com.zaxxer.hikari.HikariConfig] [DEBUG] - transactionIsolation................................default
+[13-Jan-2023 13:49:55.445] [com.zaxxer.hikari.HikariConfig] [DEBUG] - username................................"root"
+[13-Jan-2023 13:49:55.445] [com.zaxxer.hikari.HikariConfig] [DEBUG] - validationTimeout................................5000
+[13-Jan-2023 13:49:55.445] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Starting...
+[13-Jan-2023 13:49:55.782] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5066d65f
+[13-Jan-2023 13:49:55.783] [com.zaxxer.hikari.HikariDataSource] [INFO ] - HikariPool-1 - Start completed.
+[13-Jan-2023 13:49:55.889] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[13-Jan-2023 13:49:55.910] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66e49a9d
+[13-Jan-2023 13:49:55.911] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - After adding stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:50:25.901] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:50:25.901] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:50:55.911] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:50:55.911] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:51:25.927] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:51:25.927] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:51:55.939] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:51:55.939] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:52:25.941] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:52:25.941] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:52:55.949] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:52:55.949] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:53:25.962] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:53:25.962] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:53:55.977] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:53:55.977] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:54:25.978] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:54:25.978] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:54:55.984] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:54:55.984] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:55:25.993] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:55:25.993] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:55:56.008] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:55:56.008] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:56:26.014] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:56:26.014] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:56:56.019] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:56:56.019] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:57:26.019] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:57:26.019] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:57:56.027] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:57:56.027] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:58:26.040] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:58:26.040] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:58:56.049] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:58:56.049] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:59:26.057] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:59:26.057] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 13:59:56.059] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 13:59:56.059] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:00:26.066] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:00:26.066] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:00:56.079] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:00:56.079] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:01:26.091] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:01:26.091] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:01:56.105] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:01:56.105] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:02:26.112] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:02:26.112] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:02:56.119] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:02:56.119] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:03:26.122] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:03:26.122] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:03:56.133] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:03:56.133] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:04:26.143] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:04:26.143] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:04:56.157] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:04:56.157] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:05:26.170] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:05:26.170] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:05:56.171] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:05:56.171] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:06:26.177] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:06:26.177] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:06:56.178] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:06:56.178] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:07:26.179] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:07:26.179] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:07:56.187] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:07:56.187] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:08:26.200] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:08:26.200] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:08:56.212] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:08:56.212] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:09:26.226] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:09:26.226] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:09:56.242] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:09:56.242] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:10:26.248] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:10:26.248] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:10:56.264] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:10:56.264] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[13-Jan-2023 14:11:26.266] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Pool stats (total=2, active=0, idle=2, waiting=0)
+[13-Jan-2023 14:11:26.266] [com.zaxxer.hikari.pool.HikariPool] [DEBUG] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.

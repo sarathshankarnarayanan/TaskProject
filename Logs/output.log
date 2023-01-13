@@ -1,0 +1,288 @@
+17:57:05.470 [main] INFO  client.Studentmanagement - Selected to get all records of student
+17:57:05.474 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+17:57:05.871 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+17:57:07.123 [main] INFO  client.Studentmanagement - Selected to get all records of student
+17:57:07.123 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+17:57:07.128 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+17:58:09.699 [main] INFO  client.Studentmanagement - Selected to get all records of student
+17:58:09.699 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+17:58:09.703 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+17:58:11.556 [main] INFO  client.Studentmanagement - Application closed
+18:06:06.383 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:06.386 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:06.796 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:08.076 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:08.076 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:08.080 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:09.774 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:09.775 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:09.779 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:11.572 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:11.572 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:11.576 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:13.152 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:13.153 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:13.157 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:14.623 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:14.623 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:14.628 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:15.709 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:15.709 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:15.713 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:16.851 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:16.851 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:16.855 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:06:17.845 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:06:17.845 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:06:17.849 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:07:52.714 [main] INFO  client.Studentmanagement - Application closed
+18:16:34.206 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:16:34.210 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:16:34.610 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:17:04.007 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:17:04.007 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:17:04.012 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:17:05.811 [main] INFO  client.Studentmanagement - Selected to get all records of student
+18:17:05.811 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+18:17:05.815 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+18:17:09.518 [main] INFO  client.Studentmanagement - Application closed
+19:09:28.573 [main] INFO  client.Studentmanagement - Selected for Search
+19:09:30.583 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+19:09:30.996 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:10:21.033 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:10:21.033 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:10:21.038 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:10:27.277 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:10:27.277 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:10:27.281 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:10:29.000 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:10:29.000 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:10:29.003 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:12:18.157 [main] INFO  client.Studentmanagement - Application closed
+19:12:31.596 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:12:31.600 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:12:32.004 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:12:34.082 [main] INFO  client.Studentmanagement - Selected for Search
+19:13:00.343 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:00.347 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:00.748 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:03.692 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:03.692 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:03.697 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:08.143 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:08.143 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:08.147 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:10.778 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:10.778 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:10.783 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:27.982 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:27.982 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:27.987 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:30.404 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:30.404 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:30.408 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:13:32.399 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:13:32.399 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:13:32.403 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:15:15.930 [main] INFO  client.Studentmanagement - Application closed
+19:21:45.571 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+19:21:45.955 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:21:45.956 [main] ERROR Dao.SubjectDaoImplementation - dataSource or dataSourceClassName or jdbcUrl is required.
+19:21:45.958 [main] ERROR Dao.StudentDaoImplementation - Cannot invoke "java.sql.CallableStatement.close()" because "Dao.SubjectDaoImplementation.callableStatement" is null
+19:21:56.816 [main] INFO  client.Studentmanagement - Application closed
+19:22:06.367 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+19:22:06.748 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:22:06.749 [main] ERROR Dao.SubjectDaoImplementation - dataSource or dataSourceClassName or jdbcUrl is required.
+19:22:06.749 [main] ERROR Dao.StudentDaoImplementation - Cannot invoke "java.sql.CallableStatement.close()" because "Dao.SubjectDaoImplementation.callableStatement" is null
+19:22:21.474 [main] INFO  client.Studentmanagement - Application closed
+19:22:29.139 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+19:22:29.522 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:22:29.575 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:22:29.575 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:22:29.579 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:22:29.579 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:22:29.582 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:22:34.123 [main] INFO  client.Studentmanagement - Application closed
+19:24:45.277 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:24:45.280 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:24:45.683 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:00.699 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:00.699 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:00.703 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:02.395 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:02.395 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:02.399 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:03.474 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:03.474 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:03.478 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:04.469 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:04.469 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:04.474 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:05.498 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:05.498 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:05.502 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:06.371 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:06.371 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:06.375 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:07.357 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:07.357 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:07.361 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:08.385 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:08.386 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:08.390 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:09.347 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:09.347 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:09.351 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:10.298 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:10.298 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:10.302 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:11.245 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:11.245 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:11.248 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:12.250 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:12.250 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:12.253 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:13.138 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:13.138 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:13.141 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:14.183 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:14.183 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:14.187 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:15.130 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:15.130 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:15.134 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:15.990 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:15.990 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:15.994 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:16.872 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:16.873 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:16.876 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:17.739 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:17.739 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:17.743 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:26:20.024 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:26:20.024 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:26:20.028 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:27:12.850 [main] INFO  client.Studentmanagement - Application closed
+19:27:27.445 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:27:27.449 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:27:27.846 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:29:05.731 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:29:05.731 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:29:05.735 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:29:06.865 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:29:06.865 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:29:06.870 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:29:07.881 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:29:07.882 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:29:07.886 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:29:08.769 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:29:08.770 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:29:08.774 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:29:10.098 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:29:10.098 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:29:10.102 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:30:07.915 [main] INFO  client.Studentmanagement - Application closed
+19:30:14.486 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:30:14.490 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:30:14.897 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:30:43.408 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:30:43.408 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:30:43.413 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:33:45.115 [main] INFO  client.Studentmanagement - Application closed
+19:33:54.709 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+19:33:55.089 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:33:55.141 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:33:55.141 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:33:55.144 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:33:55.145 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+19:33:55.147 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+19:35:03.720 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:35:03.720 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:35:03.725 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+19:35:06.345 [main] INFO  client.Studentmanagement - Selected to get all records of student
+19:35:06.345 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+19:35:06.349 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+09:45:07.413 [main] INFO  client.Studentmanagement - Selected for Search
+09:45:10.156 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+09:45:10.619 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+09:45:14.787 [main] INFO  client.Studentmanagement - Selected to get all records of student
+09:45:14.787 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+09:45:14.792 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+09:45:18.121 [main] INFO  client.Studentmanagement - Selected to get all records of student
+09:45:18.121 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+09:45:18.126 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+09:45:25.065 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+09:45:25.067 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+09:45:25.101 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+09:45:25.101 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+09:45:25.104 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+09:45:25.104 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+09:45:25.107 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+09:45:30.774 [main] INFO  client.Studentmanagement - Application closed
+10:11:36.576 [main] INFO  client.Studentmanagement - Selected for Search
+10:11:38.923 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+10:11:39.322 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+10:12:06.249 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+10:12:06.251 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:12:06.281 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:12:06.281 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:12:06.285 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:12:06.285 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:12:06.288 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:12:15.572 [main] INFO  client.Studentmanagement - Selected to get all records of student
+10:12:15.572 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+10:12:15.577 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+10:12:19.818 [main] INFO  client.Studentmanagement - Application closed
+10:22:21.629 [main] INFO  client.Studentmanagement - Selected for Search
+10:22:22.945 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+10:22:23.347 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+10:22:27.269 [main] INFO  client.Studentmanagement - Selected to get all records of student
+10:22:27.270 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+10:22:27.275 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+10:22:30.458 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+10:22:30.461 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:22:30.493 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:22:30.493 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:22:30.497 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:22:30.497 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:22:30.500 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:22:33.776 [main] INFO  client.Studentmanagement - Application closed
+10:48:08.849 [main] INFO  client.Studentmanagement - Selected to get all records of student
+10:48:08.853 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+10:48:09.256 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+10:48:49.350 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+10:48:49.352 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:48:49.383 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:48:49.383 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:48:49.386 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:48:49.386 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+10:48:49.389 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+10:54:46.947 [main] INFO  client.Studentmanagement - Application closed
+11:44:50.577 [main] INFO  client.Studentmanagement - Selected for Search
+11:44:52.062 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+11:44:52.470 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+11:44:56.353 [main] INFO  client.Studentmanagement - Selected to get all records of student
+11:44:56.353 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+11:44:56.359 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+11:44:59.237 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+11:44:59.239 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+11:44:59.267 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+11:44:59.267 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+11:44:59.270 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+11:44:59.270 [main] INFO  Dao.SubjectDaoImplementation - Inside search subject by roll no
+11:44:59.273 [main] INFO  Dao.SubjectDaoImplementation - Connection Closed
+11:45:04.148 [main] INFO  client.Studentmanagement - Application closed
+13:37:16.319 [main] INFO  client.Studentmanagement - Selected for Search
+13:37:18.422 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+13:37:18.859 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+13:37:24.028 [main] INFO  client.Studentmanagement - Application closed
+13:49:30.699 [main] ERROR client.Studentmanagement - User Entered wrong value
+13:49:49.196 [main] INFO  client.Studentmanagement - Selected for Search
+13:49:55.419 [main] INFO  Dao.StudentDaoImplementation - Inside search by roll no
+13:49:55.833 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+13:50:14.579 [main] INFO  client.Studentmanagement - Selected to get all records of student
+13:50:14.579 [main] INFO  Dao.StudentDaoImplementation - Inside get all student
+13:50:14.585 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
+13:50:41.402 [main] INFO  client.Studentmanagement - Selected for Adding new Book
+13:50:50.057 [main] ERROR utility.Validator - For input string: "abcd"
