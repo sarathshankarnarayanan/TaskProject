@@ -286,3 +286,332 @@
 13:50:14.585 [main] INFO  Dao.StudentDaoImplementation - Connection Closed
 13:50:41.402 [main] INFO  client.Studentmanagement - Selected for Adding new Book
 13:50:50.057 [main] ERROR utility.Validator - For input string: "abcd"
+10:52:48.066 [main] INFO  c.dh.school.client.Studentmanagement - To add Subjects to database
+10:53:52.087 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside search by roll no
+10:53:52.509 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+10:53:52.578 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+10:53:52.579 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+10:53:52.583 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+10:53:52.583 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+10:53:52.600 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+10:54:16.583 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:04:37.656 [main] INFO  c.dh.school.client.Studentmanagement - To add Subjects to database
+11:06:15.632 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:06:22.473 [main] INFO  c.dh.school.client.Studentmanagement - To add Subjects to database
+11:18:03.691 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:18:41.488 [main] INFO  c.dh.school.client.Studentmanagement - To add Subjects to database
+11:19:26.259 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside addnewBook
+11:19:26.658 [main] ERROR c.d.s.dao.SubjectDaoImplementation - No value specified for parameter 3
+11:19:26.658 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+11:19:26.658 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside addnewBook
+11:19:26.662 [main] ERROR c.d.s.dao.SubjectDaoImplementation - No value specified for parameter 3
+11:19:26.662 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+11:19:26.662 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside addnewBook
+11:19:26.665 [main] ERROR c.d.s.dao.SubjectDaoImplementation - No value specified for parameter 3
+11:19:26.665 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+11:20:28.845 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:20:36.534 [main] INFO  c.dh.school.client.Studentmanagement - To add Subjects to database
+11:20:50.064 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside addnewBook
+11:20:50.487 [main] INFO  c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+11:20:50.493 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+11:20:50.493 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside addnewBook
+11:20:50.505 [main] INFO  c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+11:20:50.505 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+11:22:13.434 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:43:53.220 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+11:43:53.224 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+11:43:53.631 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+11:45:13.694 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:48:50.573 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+11:48:50.578 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+11:48:50.983 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+11:50:02.858 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:50:21.655 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+11:50:30.826 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+11:50:39.379 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+11:54:22.866 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+11:54:22.869 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+11:54:23.272 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+11:54:41.873 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+11:55:50.507 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+11:55:59.462 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+12:05:05.915 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+12:05:05.920 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+12:05:06.320 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+12:05:28.785 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+12:05:46.271 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+12:05:46.275 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+12:05:46.674 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+12:05:56.449 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+12:09:01.976 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+12:11:57.662 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+12:11:57.666 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+12:11:58.065 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+12:53:14.975 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+13:41:41.438 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+13:41:41.856 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+13:41:41.856 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:41:41.890 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+13:41:41.890 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:41:41.893 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+13:41:41.894 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:41:41.896 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+13:49:40.547 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+13:49:40.951 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+13:49:40.952 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:49:40.982 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+13:49:40.982 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:49:40.986 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+13:49:40.986 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+13:49:40.988 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:05:12.621 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+14:05:12.625 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:05:13.020 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:05:18.899 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:05:18.904 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:05:18.904 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:05:18.931 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:05:18.931 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:05:18.935 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:05:18.936 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:05:18.938 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:07:50.111 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+14:08:01.057 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:08:01.462 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:08:01.463 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:08:01.493 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:08:01.493 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:08:01.496 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:08:01.496 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:08:01.499 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:04.140 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:10:04.550 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:10:04.550 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:04.579 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:04.579 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:04.583 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:04.583 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:04.586 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:21.627 [main] INFO  c.dh.school.client.Studentmanagement - Selected to get all records of student
+14:10:21.631 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:10:22.031 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:10:25.482 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:10:25.487 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:10:25.487 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:25.513 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:25.513 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:25.516 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:10:25.516 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:10:25.518 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:11:58.644 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:11:59.048 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:11:59.049 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:11:59.078 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:11:59.079 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:11:59.083 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:11:59.083 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:11:59.086 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:12:45.940 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+14:15:32.518 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:15:32.921 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:15:32.922 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:15:32.951 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:15:32.951 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:15:32.954 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:15:32.954 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:15:32.957 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:16:16.029 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+14:16:22.567 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:16:22.971 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:16:22.971 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:16:23.000 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:16:23.000 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:16:23.004 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:16:23.004 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:16:23.006 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:17:36.284 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+14:17:55.559 [main] INFO  c.d.s.dao.StudentDaoImplementation - Inside get all student
+14:17:55.958 [main] INFO  c.d.s.dao.StudentDaoImplementation - Connection Closed
+14:17:55.959 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:17:55.989 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:17:55.989 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:17:55.992 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:17:55.992 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Inside search subject by roll no
+14:17:55.995 [main] INFO  c.d.s.dao.SubjectDaoImplementation - Connection Closed
+14:18:57.609 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+16:41:53.334 [main] INFO  c.dh.school.client.Studentmanagement - Application Started
+16:41:56.561 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to get all records of student
+16:41:56.561 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+16:41:56.565 [main] DEBUG c.dh.school.database.DbutilStudent - Static method called to set the data source
+16:41:56.580 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:41:56.975 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:41:56.975 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:41:56.981 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:47:32.734 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Exit
+16:47:32.734 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+16:47:43.092 [main] INFO  c.dh.school.client.Studentmanagement - Application Started
+16:47:46.333 [main] DEBUG c.dh.school.client.Studentmanagement - Selected for Adding new Book
+16:48:10.808 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside addNewStudent method
+16:48:10.813 [main] DEBUG c.dh.school.database.DbutilStudent - Static method called to set the data source
+16:48:10.826 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:48:11.216 [main] INFO  c.d.s.dao.StudentDaoImplementation - 1 rows effected
+16:48:11.217 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:48:11.223 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:48:39.537 [main] DEBUG c.dh.school.client.Studentmanagement - Selected for Search
+16:48:42.206 [main] DEBUG c.d.s.dao.StudentDaoImplementation -  Inside searchStudentByRollNo method
+16:48:42.206 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:48:42.222 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:48:42.222 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:48:42.222 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:48:45.822 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to get all records of student
+16:48:45.822 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+16:48:45.822 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:48:45.826 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:48:45.826 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:48:45.826 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:48:52.229 [main] DEBUG c.dh.school.client.Studentmanagement - Selected To add Subjects
+16:48:55.451 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getSubjectFromUser method
+16:49:29.460 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:49:29.461 [main] DEBUG com.dh.school.database.DbUtil - Static method called to set the data source
+16:49:29.461 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:29.498 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:49:29.498 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:29.498 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:29.498 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:49:29.499 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:29.506 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:49:29.506 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:29.506 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:44.745 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Get student records with Subject
+16:49:44.745 [main] DEBUG c.d.s.dao.StudentDaoImplementation - getStudentDetailWithMarks method
+16:49:44.745 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+16:49:44.746 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:49:44.750 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:49:44.750 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:44.750 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:44.750 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:49:44.750 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:44.754 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:49:44.754 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:44.754 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:44.754 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:49:44.754 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:44.758 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:49:44.758 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:44.758 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:44.758 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:49:44.758 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:44.761 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:49:44.761 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:44.761 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:49:44.761 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:49:44.761 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:49:44.763 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:49:44.763 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:49:44.763 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:50:01.194 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Exit
+16:50:01.195 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+16:50:52.105 [main] INFO  c.dh.school.client.Studentmanagement - Application Started
+16:50:54.642 [main] DEBUG c.dh.school.client.Studentmanagement - Selected To add Subjects
+16:50:57.844 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getSubjectFromUser method
+16:51:20.071 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:51:20.076 [main] DEBUG com.dh.school.database.DbUtil - Static method called to set the data source
+16:51:20.090 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:51:20.478 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:51:20.478 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:51:20.485 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:51:20.485 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:51:20.485 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:51:20.495 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:51:20.495 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:51:20.495 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:51:31.301 [main] DEBUG c.dh.school.client.Studentmanagement - Selected To add Subjects
+16:51:42.066 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getSubjectFromUser method
+16:52:21.766 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:52:21.767 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:21.788 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:52:21.788 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:21.788 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:21.788 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:52:21.788 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:21.796 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:52:21.797 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:21.797 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:21.797 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:52:21.797 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:21.806 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:52:21.806 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:21.806 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:21.806 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside addSubject method
+16:52:21.806 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:21.814 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - 1 rows effected
+16:52:21.814 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:21.814 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:27.598 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Get student records with Subject
+16:52:27.598 [main] DEBUG c.d.s.dao.StudentDaoImplementation - getStudentDetailWithMarks method
+16:52:27.598 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+16:52:27.598 [main] DEBUG c.dh.school.database.DbutilStudent - Static method called to set the data source
+16:52:27.599 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+16:52:27.635 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:52:27.635 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:27.635 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:27.636 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:52:27.636 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:27.641 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:52:27.641 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:27.641 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:27.641 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:52:27.641 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:27.644 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:52:27.644 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:27.644 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:27.644 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:52:27.644 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:27.647 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:52:27.647 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:27.647 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:27.647 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+16:52:27.647 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+16:52:27.650 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+16:52:27.650 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+16:52:27.650 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+16:52:43.881 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Exit
+16:52:43.881 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
+17:24:00.121 [main] INFO  c.dh.school.client.Studentmanagement - Application Started
+17:24:02.516 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to get all records of student
+17:24:02.516 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+17:24:02.521 [main] DEBUG c.dh.school.database.DbutilStudent - Static method called to set the data source
+17:24:02.536 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+17:24:02.902 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:02.902 [main] WARN  c.d.s.utility.DbcloseConnections - Statement Closed
+17:24:02.908 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:06.561 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Get student records with Subject
+17:24:06.561 [main] DEBUG c.d.s.dao.StudentDaoImplementation - getStudentDetailWithMarks method
+17:24:06.561 [main] DEBUG c.d.s.dao.StudentDaoImplementation - Inside getAllStudent Method
+17:24:06.561 [main] DEBUG c.dh.school.database.DbutilStudent - Inside getDataSourceStudent
+17:24:06.563 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:06.563 [main] WARN  c.d.s.utility.DbcloseConnections - Statement Closed
+17:24:06.563 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:06.563 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+17:24:06.564 [main] DEBUG com.dh.school.database.DbUtil - Static method called to set the data source
+17:24:06.564 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+17:24:06.605 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:06.605 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+17:24:06.606 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:06.606 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+17:24:06.606 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+17:24:06.608 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:06.608 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+17:24:06.608 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:06.608 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+17:24:06.608 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+17:24:06.611 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:06.611 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+17:24:06.612 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:06.612 [main] DEBUG c.d.s.dao.SubjectDaoImplementation - Inside getStudentSubject
+17:24:06.612 [main] DEBUG com.dh.school.database.DbUtil - Inside getDataSourceSubject
+17:24:06.615 [main] WARN  c.d.s.utility.DbcloseConnections - Result Statement Closed
+17:24:06.615 [main] WARN  c.d.s.utility.DbcloseConnections - callable Statement Closed
+17:24:06.615 [main] WARN  c.d.s.utility.DbcloseConnections - Connection Closed
+17:24:20.879 [main] DEBUG c.dh.school.client.Studentmanagement - Selected to Exit
+17:24:20.880 [main] INFO  c.dh.school.client.Studentmanagement - Application closed
